@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Shaded but Not Cooler: analysis code"
+version: "1.0"
+date-released: "2026-11-20"
+license: MIT
+doi: 10.5281/zenodo.24405095
+authors:
+  - family-names: "Al-Homoud"
+    given-names: "Majd"
+    orcid: "https://orcid.org/0000-0003-1580-7926"
+    affiliation: "Prince Sultan University"
